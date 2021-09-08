@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gideon App</string>
+    <string name="name">Forgot password?</string>
+    <string name="home">Gideon Welcome</string>
+    <string name="rest">Please enter your email here</string>
+    <string name="account">Don\'t have account?</string>
+</resources>
